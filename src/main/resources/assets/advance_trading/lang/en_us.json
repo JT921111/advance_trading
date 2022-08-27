@@ -1,0 +1,18 @@
+{
+	"item.advance_trading.stock_increase": "Stock Increase",
+
+  	"itemGroup.advance_trading_tab": "Advance Trading",
+  
+	"key.category.advance_trading": "Advance Trading",
+	"key.advance_trading.open_level": "Open Trading Level Screen",
+	"key.advance_trading.increase_level": "Trading Level Increase",
+	"key.advance_trading.reset_level": "Trading Level Reset",
+	
+	"screen.advance_trading.title": "Trading Level",
+	"screen.advance_trading.trade_level": "Trades Level:",
+	"screen.advance_trading.skill_point": "Skill Point:",
+	"screen.advance_trading.skill_label": "Skill",
+	"screen.advance_trading.skill_1": " chance to get ",
+	"screen.advance_trading.skill_2": " emeralds when trades.",
+	"screen.advance_trading.skill_3": "Give you an item to increase stocks."
+}

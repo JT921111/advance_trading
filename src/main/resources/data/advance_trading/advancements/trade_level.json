@@ -1,0 +1,14 @@
+{
+	"criteria": {
+		"traded": {
+			"trigger": "minecraft:villager_trade",
+			"conditions": {
+			}
+		}
+	},
+	"requirements": [
+		[
+			"traded"
+		]
+	]
+}
